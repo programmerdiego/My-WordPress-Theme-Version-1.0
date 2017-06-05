@@ -1,0 +1,24 @@
+/*
+Theme Name: Diego Sanchez Theme 
+Author: Diego Sanchez
+Author URL: http://www.diegosanchez.info
+Version: 1.0
+*/
+
+a,h1{
+	color: #0B3975;	
+}
+a:hover, a:visited, a:link, a:active{
+    text-decoration: none;
+}
+
+body{
+    background-color: #ffcc33;
+	color: #747689;
+	text-decoration: none;
+}
+
+h5, footer{
+	color: #0B3975;
+}
+
