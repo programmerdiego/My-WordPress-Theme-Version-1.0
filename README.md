@@ -1,0 +1,2 @@
+# wordpress
+Diego Sanchez Theme
