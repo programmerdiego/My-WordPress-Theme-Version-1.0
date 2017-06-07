@@ -1,3 +1,11 @@
+/*
+Theme Name: Diego Sanchez Theme 
+Author: Diego Sanchez
+Author URL: http://www.diegosanchez.info
+Version: 1.0
+*/
+
+
 <?php
 	get_header();
 
